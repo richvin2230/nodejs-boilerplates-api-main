@@ -6,7 +6,7 @@
         "password" : "",
         "database" : "node-mysql-signup-verification-api"
     },
-    "secret": "6c32701b-3329-431e-b95f-5604da73e4fc",
+    "secret": "43f3fac7-5005-4e7e-b732-255e945b7915",
     "emailFrom": "info@node-mysql-signup-verification-api.com",
     "smtpOptions" : {
         "host": "smtp.ethereal.email",
@@ -16,4 +16,4 @@
             "pass": "qHYQqYcTnvJux3dPFj"
         }
     }
-} 
+}
